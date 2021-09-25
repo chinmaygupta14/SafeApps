@@ -1,2 +1,2 @@
-# SafeApps
-SafeApps is an application that tells you if the App you want to install is legitimate or not.
+# Fraud_App_Detection
+Detect fraud apps present in google play store using semantic analysis
